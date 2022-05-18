@@ -1,0 +1,31 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+color: black;
+}
+
+#status,#baby_detector
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px lightseagreen;
+    margin-top: 30px;
+}
+
+.heading1{
+width: 100%;
+margin-top: 0px;
+color: black;
+font-size: 16px;
+}
